@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Involog is under active development. Track progress via [GitHub issues](https://github.com/unproducts/involog/issues).
+> Involog is under active development. Track progress via [GitHub issues](https://github.com/rjsamra/involog/issues).
 
 <img src="./banner.png">
 
